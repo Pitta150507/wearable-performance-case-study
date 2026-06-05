@@ -65,6 +65,12 @@ Recommended order:
 - `paper/final_manuscript.docx`
 - `paper/final_manuscript.pdf`
 
+## Release
+
+- Repository: https://github.com/Pitta150507/wearable-performance-case-study
+- GitHub Release v1.0: https://github.com/Pitta150507/wearable-performance-case-study/releases/tag/v1.0
+- Curated upload archive: `publication/wearable-performance-case-study-v1.0-release.zip`
+
 ## Citation
 
 Please cite this repository using `CITATION.cff`.

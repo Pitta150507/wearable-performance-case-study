@@ -81,7 +81,8 @@ Notes:
 ## Release Readiness
 
 - Scientific manuscript: ready for public preprint/repository release.
-- GitHub repository: locally prepared; remote publishing requires confirmed repository remote and final privacy review.
+- GitHub repository: published at `https://github.com/Pitta150507/wearable-performance-case-study`.
+- GitHub Release v1.0: published at `https://github.com/Pitta150507/wearable-performance-case-study/releases/tag/v1.0`.
 - Zenodo package: metadata and checklist prepared.
 - OSF package: metadata and checklist prepared.
 

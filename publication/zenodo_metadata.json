@@ -22,6 +22,18 @@
   "version": "1.0",
   "language": "eng",
   "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Pitta150507/wearable-performance-case-study",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://github.com/Pitta150507/wearable-performance-case-study/releases/tag/v1.0",
+      "relation": "isVersionOf",
+      "resource_type": "dataset"
+    }
+  ],
   "communities": [],
   "suggested_categories": [
     "Sport science",

@@ -16,4 +16,5 @@ keywords:
   - FIDAL
   - case study
 license: "MIT"
+repository-code: "https://github.com/Pitta150507/wearable-performance-case-study"
 abstract: "A four-year wearable-based single-athlete case study of Garmin-derived training and recovery context associated with 29 official FIDAL race performances."
