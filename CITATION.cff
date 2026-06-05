@@ -1,0 +1,19 @@
+cff-version: "1.2.0"
+message: "If you use this dataset, code, or manuscript, please cite it as below."
+title: "Training Volume, Sleep and Endurance Performance: A Longitudinal Analysis of 29 Official Races in a Competitive Distance Runner"
+version: "1.0"
+date-released: "2026-06-05"
+authors:
+  - family-names: "Bertoldo"
+    given-names: "Andrea"
+    affiliation: "Independent Student Researcher, Italy"
+keywords:
+  - wearable data
+  - endurance running
+  - Garmin
+  - sleep
+  - training volume
+  - FIDAL
+  - case study
+license: "MIT"
+abstract: "A four-year wearable-based single-athlete case study of Garmin-derived training and recovery context associated with 29 official FIDAL race performances."

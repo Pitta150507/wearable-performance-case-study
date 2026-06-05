@@ -1,0 +1,30 @@
+race_date,fidal_event,official_time_text,city,window_start,window_end,hrv_days_in_28d,rhr_days_in_28d,hrv_exists_28d,rhr_exists_28d,first_hrv_in_window,last_hrv_in_window,first_rhr_in_window,last_rhr_in_window,missing_reason,race_dataset_hrv_avg_28d,race_dataset_rhr_avg_28d
+2023-04-01,3000 metri,10:11.12,Venezia,2023-03-04,2023-03-31,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2023-05-01,3000 metri,10:21.75,Padova,2023-04-03,2023-04-30,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2023-05-13,1500 metri,4:35.28,Padova,2023-04-15,2023-05-12,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2023-05-27,1500 metri,4:30.99,Caorle,2023-04-29,2023-05-26,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2023-05-28,5000 metri,18:13.91,Caorle,2023-04-30,2023-05-27,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2023-06-13,2000 siepi H84,6:52.10,Venezia,2023-05-16,2023-06-12,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2023-09-09,1500 metri,4:22.83,Venezia,2023-08-12,2023-09-08,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2023-09-10,3000 metri,9:43.52,Venezia,2023-08-13,2023-09-09,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2024-01-27,1500 metri,4:30.80,Padova,2023-12-30,2024-01-26,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2024-04-14,Corsa 30' Allievi,30:00,Treviso,2024-03-17,2024-04-13,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2024-06-28,3000 metri,9:52.80,San Biagio Di Callalta,2024-05-31,2024-06-27,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2024-07-27,5000 metri,16:50.28,Domegge Di Cadore,2024-06-29,2024-07-26,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2024-08-03,3000 metri,9:18.53,Tolmezzo,2024-07-06,2024-08-02,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2024-09-08,5000 metri,16:16.13,Bassano Del Grappa,2024-08-11,2024-09-07,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2024-09-15,corsa km 5 strada,16:31,Pordenone,2024-08-18,2024-09-14,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2024-10-06,Corsa strada Km 10,34:14,Arezzo,2024-09-08,2024-10-05,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-01-18,3000 metri,9:12.22,Padova,2024-12-21,2025-01-17,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-02-09,3000 metri,9:06.25,Padova,2025-01-12,2025-02-08,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-05-10,1500 metri,4:25.56,San Biagio Di Callalta,2025-04-12,2025-05-09,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-05-24,1500 metri,4:23.47,Valeggio Sul Mincio,2025-04-26,2025-05-23,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-06-29,5000 metri,16:02.66,Scorzè,2025-06-01,2025-06-28,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-07-23,1500 metri,4:10.61,Montebelluna,2025-06-25,2025-07-22,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-08-23,800 metri,2:05.66,Cles,2025-07-26,2025-08-22,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-09-06,1500 metri,4:15.27,Bassano Del Grappa,2025-08-09,2025-09-05,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-09-07,5000 metri,15:59.98,Bassano Del Grappa,2025-08-10,2025-09-06,0,0,no,no,,,,,date outside HRV/RHR availability,,
+2025-09-28,5000 metri,15:54.20,Trieste,2025-08-31,2025-09-27,10,10,yes,yes,2025-09-18,2025-09-27,2025-09-18,2025-09-27,covered,66.6,51.5
+2026-05-01,3000 metri,9:11.10,Este,2026-04-03,2026-04-30,27,27,yes,yes,2026-04-03,2026-04-30,2026-04-03,2026-04-30,covered,59.33,56.19
+2026-05-17,5000 metri,15:54.63,Conegliano,2026-04-19,2026-05-16,27,27,yes,yes,2026-04-19,2026-05-16,2026-04-19,2026-05-16,covered,61.52,53.56
+2026-05-30,5000 metri,15:43.94,Borgo Valbelluna,2026-05-02,2026-05-29,27,27,yes,yes,2026-05-02,2026-05-29,2026-05-02,2026-05-29,covered,61.41,52.67

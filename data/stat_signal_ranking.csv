@@ -1,0 +1,16 @@
+rank,variable,label,signal_strength_score,raw_correlation_strength,coverage_weight,pearson_r,spearman_rho,n,quartile_best_minus_worst,interpretation,confidence
+1,run_km_56d,Run km 56d,0.6121,0.6121,1.0,0.633,0.5912,29,178.109,higher values align with better event-relative performance; Best group higher.,moderate
+2,run_km_28d,Run km 28d,0.5916,0.5916,1.0,0.6296,0.5536,29,79.124,higher values align with better event-relative performance; Best group higher.,moderate
+3,sleep_avg_hours_28d,Sleep avg 28d,0.4992,0.4992,1.0,0.5796,0.4188,29,0.46,higher values align with better event-relative performance; Best group higher.,moderate
+4,run_km_14d,Run km 14d,0.4527,0.4527,1.0,0.5045,0.401,29,26.92,higher values align with better event-relative performance; Best group higher.,moderate
+5,vo2max_nearest,VO2max nearest,0.3818,0.3818,1.0,0.3782,0.3854,29,1.286,higher values align with better event-relative performance; Best group higher.,moderate
+6,sleep_avg_hours_14d,Sleep avg 14d,0.3642,0.3642,1.0,0.4034,0.3251,29,0.357,higher values align with better event-relative performance; Best group higher.,moderate
+7,acute_load_nearest,Acute load nearest,0.2583,0.2583,1.0,-0.2159,-0.3007,29,-81.143,higher values align with worse event-relative performance; Best group lower.,low
+8,sleep_avg_hours_7d,Sleep avg 7d,0.1587,0.1587,1.0,0.1348,0.1825,29,0.21,higher values align with better event-relative performance; Best group higher.,low
+9,run_km_7d,Run km 7d,0.1207,0.1207,1.0,0.1579,0.0834,29,8.899,higher values align with better event-relative performance; Best group higher.,low
+10,hrv_avg_28d,HRV avg 28d,0.0614,0.4454,0.1379,-0.2908,-0.6,4,,higher values align with worse event-relative performance; Not enough data.,very low
+11,rhr_avg_7d,RHR proxy 7d,0.0526,0.3816,0.1379,0.1631,0.6,4,,higher values align with better event-relative performance; Not enough data.,very low
+12,rhr_avg_14d,RHR proxy 14d,0.0453,0.3284,0.1379,0.0569,0.6,4,,higher values align with better event-relative performance; Not enough data.,very low
+13,hrv_avg_14d,HRV avg 14d,0.0386,0.2797,0.1379,-0.3594,0.2,4,,higher values align with worse event-relative performance; Not enough data.,very low
+14,hrv_avg_7d,HRV avg 7d,0.0201,0.1461,0.1379,-0.2921,0.0,4,,higher values align with worse event-relative performance; Not enough data.,very low
+15,rhr_avg_28d,RHR proxy 28d,0.0075,0.0544,0.1379,-0.1088,0.0,4,,higher values align with worse event-relative performance; Not enough data.,very low

@@ -1,0 +1,25 @@
+# macOS/editor noise
+.DS_Store
+._*
+
+# Local render/test outputs
+outputs/
+*.log
+
+# Release archives are uploaded as GitHub/Zenodo/OSF assets, not tracked in git
+publication/*.zip
+
+# Manual screenshot source images are secondary/private review material
+data/manual_screenshots/
+
+# Private Garmin export inventory describes internal export paths and is not needed publicly
+data/garmin_export_inventory.csv
+
+# Superseded local writing drafts
+paper/*draft*.md
+paper/maturita-summary.md
+
+# Python caches
+__pycache__/
+*.pyc
+

@@ -1,0 +1,16 @@
+variable,label,best_n,worst_n,best_mean,worst_mean,best_minus_worst,standardized_mean_difference,direction
+run_km_7d,Run km 7d,7,7,54.016,45.117,8.899,0.7279,Best group higher.
+run_km_14d,Run km 14d,7,7,114.414,87.494,26.92,1.696,Best group higher.
+run_km_28d,Run km 28d,7,7,243.764,164.64,79.124,2.8121,Best group higher.
+run_km_56d,Run km 56d,7,7,480.224,302.116,178.109,2.4475,Best group higher.
+sleep_avg_hours_7d,Sleep avg 7d,7,7,8.104,7.894,0.21,0.3252,Best group higher.
+sleep_avg_hours_14d,Sleep avg 14d,7,7,8.129,7.771,0.357,0.9292,Best group higher.
+sleep_avg_hours_28d,Sleep avg 28d,7,7,8.12,7.66,0.46,2.1128,Best group higher.
+hrv_avg_7d,HRV avg 7d,1,0,61.86,,,,Not enough data.
+hrv_avg_14d,HRV avg 14d,1,0,61.69,,,,Not enough data.
+hrv_avg_28d,HRV avg 28d,1,0,61.41,,,,Not enough data.
+rhr_avg_7d,RHR proxy 7d,1,0,52.86,,,,Not enough data.
+rhr_avg_14d,RHR proxy 14d,1,0,52.77,,,,Not enough data.
+rhr_avg_28d,RHR proxy 28d,1,0,52.67,,,,Not enough data.
+vo2max_nearest,VO2max nearest,7,7,67.857,66.571,1.286,1.1668,Best group higher.
+acute_load_nearest,Acute load nearest,7,7,721.857,803.0,-81.143,-0.493,Best group lower.

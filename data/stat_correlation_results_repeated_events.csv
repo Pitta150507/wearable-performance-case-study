@@ -1,0 +1,16 @@
+variable,label,n,pearson_r,pearson_p,pearson_ci_low,pearson_ci_high,spearman_rho,spearman_p,spearman_ci_low,spearman_ci_high,abs_pearson,direction_for_better_performance,evidence_note
+sleep_avg_hours_28d,Sleep avg 28d,24,0.7064,0.0001,0.4237,0.8637,0.5529,0.0051,0.1924,0.7819,0.7064,Higher variable associated with better event-relative performance.,Statistically notable in this dataset; not causal.
+run_km_56d,Run km 56d,24,0.6198,0.0012,0.2885,0.8185,0.5771,0.0031,0.2265,0.7954,0.6198,Higher variable associated with better event-relative performance.,Statistically notable in this dataset; not causal.
+run_km_28d,Run km 28d,24,0.6083,0.0016,0.2715,0.8123,0.5132,0.0103,0.1384,0.7594,0.6083,Higher variable associated with better event-relative performance.,Statistically notable in this dataset; not causal.
+run_km_14d,Run km 14d,24,0.559,0.0045,0.2008,0.7853,0.4161,0.0431,0.0153,0.7017,0.559,Higher variable associated with better event-relative performance.,Statistically notable in this dataset; not causal.
+sleep_avg_hours_14d,Sleep avg 14d,24,0.5259,0.0083,0.1554,0.7666,0.4603,0.0236,0.0698,0.7284,0.5259,Higher variable associated with better event-relative performance.,Statistically notable in this dataset; not causal.
+vo2max_nearest,VO2max nearest,24,0.4745,0.0191,0.088,0.7369,0.5794,0.003,0.2297,0.7966,0.4745,Higher variable associated with better event-relative performance.,Statistically notable in this dataset; not causal.
+hrv_avg_14d,HRV avg 14d,4,-0.3594,0.6406,-0.9815,0.9192,0.2,0.8,-0.9422,0.9739,0.3594,Higher variable associated with worse event-relative performance.,Very sparse; treat as descriptive only.
+hrv_avg_7d,HRV avg 7d,4,-0.2921,0.7079,-0.9785,0.9301,0.0,1.0,-0.9611,0.9611,0.2921,Higher variable associated with worse event-relative performance.,Very sparse; treat as descriptive only.
+hrv_avg_28d,HRV avg 28d,4,-0.2908,0.7092,-0.9784,0.9303,-0.6,0.4,-0.9901,0.8529,0.2908,Higher variable associated with worse event-relative performance.,Very sparse; treat as descriptive only.
+run_km_7d,Run km 7d,24,0.1935,0.3649,-0.2277,0.5537,0.1249,0.5608,-0.2933,0.503,0.1935,Higher variable associated with better event-relative performance.,Little linear signal in this dataset.
+sleep_avg_hours_7d,Sleep avg 7d,24,0.1784,0.4043,-0.2425,0.5427,0.1998,0.3492,-0.2214,0.5582,0.1784,Higher variable associated with better event-relative performance.,Little linear signal in this dataset.
+rhr_avg_7d,RHR proxy 7d,4,0.1631,0.8369,-0.9463,0.9718,0.6,0.4,-0.8529,0.9901,0.1631,Higher variable associated with better event-relative performance.,Very sparse; treat as descriptive only.
+rhr_avg_28d,RHR proxy 28d,4,-0.1088,0.8912,-0.9686,0.9518,0.0,1.0,-0.9611,0.9611,0.1088,Higher variable associated with worse event-relative performance.,Very sparse; treat as descriptive only.
+acute_load_nearest,Acute load nearest,24,-0.0741,0.7307,-0.4637,0.3394,-0.1854,0.3857,-0.5478,0.2356,0.0741,Higher variable associated with worse event-relative performance.,Little linear signal in this dataset.
+rhr_avg_14d,RHR proxy 14d,4,0.0569,0.9431,-0.9565,0.9652,0.6,0.4,-0.8529,0.9901,0.0569,Higher variable associated with better event-relative performance.,Very sparse; treat as descriptive only.

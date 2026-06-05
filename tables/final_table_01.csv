@@ -1,0 +1,16 @@
+variable,n,pearson_r,pearson_p,pearson_ci_low,pearson_ci_high,spearman_rho,spearman_p,evidence_note
+Run km 56d,29,0.633,0.0002,0.347,0.811,0.591,0.0007,Statistically notable in this dataset; not causal.
+Run km 28d,29,0.630,0.0003,0.342,0.809,0.554,0.0018,Statistically notable in this dataset; not causal.
+Sleep avg 28d,29,0.580,0.001,0.271,0.780,0.419,0.0237,Statistically notable in this dataset; not causal.
+Run km 14d,29,0.505,0.0053,0.169,0.735,0.401,0.0311,Statistically notable in this dataset; not causal.
+Sleep avg 14d,29,0.403,0.030,0.043,0.671,0.325,0.0853,Statistically notable in this dataset; not causal.
+VO2max nearest,29,0.378,0.0431,0.014,0.654,0.385,0.039,Statistically notable in this dataset; not causal.
+HRV avg 14d,4,-0.359,0.6406,-0.982,0.919,0.200,0.800,Very sparse; treat as descriptive only.
+HRV avg 7d,4,-0.292,0.7079,-0.979,0.930,0.000,1.000,Very sparse; treat as descriptive only.
+HRV avg 28d,4,-0.291,0.7092,-0.978,0.930,-0.600,0.400,Very sparse; treat as descriptive only.
+Acute load nearest,29,-0.216,0.2607,-0.540,0.164,-0.301,0.113,Little linear signal in this dataset.
+RHR proxy 7d,4,0.163,0.8369,-0.946,0.972,0.600,0.400,Very sparse; treat as descriptive only.
+Run km 7d,29,0.158,0.4132,-0.221,0.496,0.083,0.6671,Little linear signal in this dataset.
+Sleep avg 7d,29,0.135,0.4857,-0.244,0.478,0.183,0.3433,Little linear signal in this dataset.
+RHR proxy 28d,4,-0.109,0.8912,-0.969,0.952,0.000,1.000,Very sparse; treat as descriptive only.
+RHR proxy 14d,4,0.057,0.9431,-0.957,0.965,0.600,0.400,Very sparse; treat as descriptive only.
